@@ -1,4 +1,4 @@
-**_📦 Baileys-fedexyz_**
+**_📦 Baileys - `fedExz-Bails`**
 
 <p align="center">
   <img src="https://files.catbox.moe/c65bk7.jpg" alt="Baileys-fedexyz" width="300"/>
