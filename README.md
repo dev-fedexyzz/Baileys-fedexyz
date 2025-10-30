@@ -1,10 +1,10 @@
-**_📦 Baileys - `fedExz-Bails`**
+**_📦 Baileys - `fedExz-Bails`_**
 
 <p align="center">
   <img src="https://files.catbox.moe/c65bk7.jpg" alt="Baileys-fedexyz" width="300"/>
 </p>
 
-Bienvenido al repositorio de *Baileys-fedexyz*, una implementación personalizada del cliente WhatsApp usando la librería *@whiskeysockets/baileys*.
+Bienvenido al repositorio de *Baileys: `fedExz-Bails`*, una implementación personalizada del cliente WhatsApp usando la librería *@whiskeysockets/baileys*.
 
 > 👨‍💻 **_Proyecto desarrollado:_** [*dev-fedexyzz*](https://github.com/dev-fedexyzz)  
 > 📚 **_Repositorio:_** `github:dev-fedexyzz/Baileys-fedexyz`
