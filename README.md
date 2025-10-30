@@ -1,7 +1,7 @@
 **Baileys Dev-fedexyz**
 
 <div align="center">
-  <img src="https://github.com/dev-fedexyzz.png" alt="Banner kurumi" width="full">
+  <img src="https://files.catbox.moe/c65bk7.jpg" alt="Banner kurumi" width="full">
 </div>
 
 ### **Creador**
