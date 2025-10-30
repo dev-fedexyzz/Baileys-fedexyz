@@ -14,6 +14,6 @@ Bienvenido al repositorio  del *Baileys: `fedExz-Bails`*, una implementación pe
 - Fácil integración con comandos personalizados
 - Compatible con sesiones en múltiples dispositivos
 
-### ** `fedExz-Bails` **
+**`fedExz`**
 <a
 href="https://github.com/dev-fedexyzz"><img src="https://github.com/dev-fedexyzz.png" width="130" height="130" alt="Baileys"/></a>
