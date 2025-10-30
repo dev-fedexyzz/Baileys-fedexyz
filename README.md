@@ -6,8 +6,8 @@
 
 Bienvenido al repositorio de *Baileys-fedexyz*, una implementación personalizada del cliente WhatsApp usando la librería *@whiskeysockets/baileys*.
 
-> 👨‍💻 Proyecto desarrollado por [*dev-fedexyzz*](https://github.com/dev-fedexyzz)  
-> 📁 Repositorio: `github:dev-fedexyzz/Baileys-fedexyz`
+> 👨‍💻 **_Proyecto desarrollado:_** [*dev-fedexyzz*](https://github.com/dev-fedexyzz)  
+> 📚 **_Repositorio:_** `github:dev-fedexyzz/Baileys-fedexyz`
 
 🚀 Características
 - Conexión rápida y estable a WhatsApp Web
