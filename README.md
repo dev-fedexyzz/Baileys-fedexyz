@@ -1,4 +1,4 @@
-> Baileys Dev-fedexyz
+**Baileys Dev-fedexyz**
 
 <div align="center">
   <img src="https://files.catbox.moe/c65bk7.jpg" alt="Banner kurumi" width="full">
