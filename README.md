@@ -1,10 +1,20 @@
-**Baileys Dev-fedexyz**
+📦 Baileys-fedexyz
 
-<div align="center">
-  <img src="https://files.catbox.moe/c65bk7.jpg" alt="Banner kurumi" width="full">
-</div>
+<p align="center">
+  <img src="https://files.catbox.moe/c65bk7.jpg" alt="Baileys-fedexyz" width="300"/>
+</p>
+
+Bienvenido al repositorio de *Baileys-fedexyz*, una implementación personalizada del cliente WhatsApp usando la librería *@whiskeysockets/baileys*.
+
+> 👨‍💻 Proyecto desarrollado por [*dev-fedexyzz*](https://github.com/dev-fedexyzz)  
+> 📁 Repositorio: `github:dev-fedexyzz/Baileys-fedexyz`
+
+🚀 Características
+- Conexión rápida y estable a WhatsApp Web
+- Estructura limpia y escalable para bots
+- Fácil integración con comandos personalizados
+- Compatible con sesiones en múltiples dispositivos
 
 ### **Creador**
 <a
 href="https://github.com/dev-fedexyzz"><img src="https://github.com/dev-fedexyzz.png" width="130" height="130" alt="Baileys"/></a>
-
